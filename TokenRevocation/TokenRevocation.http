@@ -1,0 +1,6 @@
+@TokenRevocation_HostAddress = http://localhost:5105
+
+GET {{TokenRevocation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
